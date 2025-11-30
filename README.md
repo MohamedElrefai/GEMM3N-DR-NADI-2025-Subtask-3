@@ -3,7 +3,7 @@
 This repository contains the official implementation of:
 
 **📄 Paper Title:**
-*Unicorn at NADI 2025 Subtask 3: GEMM3N-DR – Audio-Text Diacritic Restoration via Fine-tuning Multimodal Arabic LLM*
+[*Unicorn at NADI 2025 Subtask 3: GEMM3N-DR – Audio-Text Diacritic Restoration via Fine-tuning Multimodal Arabic LLM*](https://aclanthology.org/2025.arabicnlp-sharedtasks.106.pdf)
 
 Our end-to-end system for **Arabic Diacritic Restoration** is organized into three distinct stages:
 
